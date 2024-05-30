@@ -1,0 +1,19 @@
+{
+    "name": "mrza/labhello",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MuhamadRezaa",
+            "email": "mhdrezaa095@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "mrza\\labhello\\": "src/"
+        }
+    },
+    "require": {}
+}
